@@ -2,8 +2,8 @@
 <h5 align="center">Industrial engineer and data lover</h5>
 
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
+<h5 align="right">Connect with me:</h5>
+<p align="right">
   <a href="https://www.linkedin.com/in/adrianomnneto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adrianomnneto/" height="30" width="40" /></a>
   <a href="https://github.com/adrianomnn" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="https://github.com/adrianomnn" height="30" width="40" /></a>
   <a href="mailto:adrianomnneto@gmail.com?subject=Github" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" alt="mailto:adrianomnneto@gmail.com?subject=Github" height="30" width="40" /></a>
