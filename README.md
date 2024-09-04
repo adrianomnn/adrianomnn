@@ -1,5 +1,5 @@
 <h3 align="center">Hello, I'm Adriano Nogueira 👋</h2>
-<h5 align="center">Industrial engineer, data lover and forever a student. </h5>
+<h5 align="center">Industrial engineer, data lover and forever student. </h5>
 
 
 <h5 align="right">Connect with me:</h5>
